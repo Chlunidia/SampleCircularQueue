@@ -107,6 +107,9 @@ namespace CircularQueues_CSharp
                 Console.WriteLine();
             }
         }
-        
+        static void Main(string[] args)
+        {
+
+        }
     }
 }
