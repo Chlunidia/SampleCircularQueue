@@ -153,7 +153,10 @@ namespace CircularQueues_CSharp
                     }
 
                 }
-                
+                catch (Exception e)
+                {
+                    Console.WriteLine("Check for the value entered. ");
+                }
             }
         }
     }
