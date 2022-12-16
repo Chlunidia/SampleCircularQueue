@@ -12,6 +12,10 @@ namespace CircularQueues_CSharp
              to indicate that the queue is initially empty. */
             FRONT = -1;
             REAR = -1;
-        }        
+        }
+        public void insert(int element)
+        {
+            
+        }
     }
 }
